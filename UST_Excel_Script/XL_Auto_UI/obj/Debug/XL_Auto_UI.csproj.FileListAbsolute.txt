@@ -1,0 +1,28 @@
+c:\Users\Rafael\documents\visual studio 2017\Projects\Auto_XL\XL_Auto_UI\bin\Debug\XL_Auto_UI.exe.config
+c:\Users\Rafael\documents\visual studio 2017\Projects\Auto_XL\XL_Auto_UI\bin\Debug\XL_Auto_UI.exe
+c:\Users\Rafael\documents\visual studio 2017\Projects\Auto_XL\XL_Auto_UI\bin\Debug\XL_Auto_UI.pdb
+c:\Users\Rafael\documents\visual studio 2017\Projects\Auto_XL\XL_Auto_UI\obj\Debug\XL_Auto_UI.csprojResolveAssemblyReference.cache
+c:\Users\Rafael\documents\visual studio 2017\Projects\Auto_XL\XL_Auto_UI\obj\Debug\MainWindow.g.cs
+c:\Users\Rafael\documents\visual studio 2017\Projects\Auto_XL\XL_Auto_UI\obj\Debug\App.g.cs
+c:\Users\Rafael\documents\visual studio 2017\Projects\Auto_XL\XL_Auto_UI\obj\Debug\XL_Auto_UI_MarkupCompile.cache
+c:\Users\Rafael\documents\visual studio 2017\Projects\Auto_XL\XL_Auto_UI\obj\Debug\XL_Auto_UI_MarkupCompile.lref
+c:\Users\Rafael\documents\visual studio 2017\Projects\Auto_XL\XL_Auto_UI\obj\Debug\MainWindow.baml
+c:\Users\Rafael\documents\visual studio 2017\Projects\Auto_XL\XL_Auto_UI\obj\Debug\XL_Auto_UI.g.resources
+c:\Users\Rafael\documents\visual studio 2017\Projects\Auto_XL\XL_Auto_UI\obj\Debug\XL_Auto_UI.Properties.Resources.resources
+c:\Users\Rafael\documents\visual studio 2017\Projects\Auto_XL\XL_Auto_UI\obj\Debug\XL_Auto_UI.csproj.GenerateResource.Cache
+c:\Users\Rafael\documents\visual studio 2017\Projects\Auto_XL\XL_Auto_UI\obj\Debug\XL_Auto_UI.exe
+c:\Users\Rafael\documents\visual studio 2017\Projects\Auto_XL\XL_Auto_UI\obj\Debug\XL_Auto_UI.pdb
+C:\Users\rafap\Desktop\Programming\source\repos\Auto_XL\Auto_XL\XL_Auto_UI\bin\Debug\XL_Auto_UI.exe.config
+C:\Users\rafap\Desktop\Programming\source\repos\Auto_XL\Auto_XL\XL_Auto_UI\bin\Debug\XL_Auto_UI.exe
+C:\Users\rafap\Desktop\Programming\source\repos\Auto_XL\Auto_XL\XL_Auto_UI\bin\Debug\XL_Auto_UI.pdb
+C:\Users\rafap\Desktop\Programming\source\repos\Auto_XL\Auto_XL\XL_Auto_UI\obj\Debug\XL_Auto_UI.csprojAssemblyReference.cache
+C:\Users\rafap\Desktop\Programming\source\repos\Auto_XL\Auto_XL\XL_Auto_UI\obj\Debug\MainWindow.g.cs
+C:\Users\rafap\Desktop\Programming\source\repos\Auto_XL\Auto_XL\XL_Auto_UI\obj\Debug\App.g.cs
+C:\Users\rafap\Desktop\Programming\source\repos\Auto_XL\Auto_XL\XL_Auto_UI\obj\Debug\XL_Auto_UI_MarkupCompile.cache
+C:\Users\rafap\Desktop\Programming\source\repos\Auto_XL\Auto_XL\XL_Auto_UI\obj\Debug\XL_Auto_UI_MarkupCompile.lref
+C:\Users\rafap\Desktop\Programming\source\repos\Auto_XL\Auto_XL\XL_Auto_UI\obj\Debug\MainWindow.baml
+C:\Users\rafap\Desktop\Programming\source\repos\Auto_XL\Auto_XL\XL_Auto_UI\obj\Debug\XL_Auto_UI.g.resources
+C:\Users\rafap\Desktop\Programming\source\repos\Auto_XL\Auto_XL\XL_Auto_UI\obj\Debug\XL_Auto_UI.Properties.Resources.resources
+C:\Users\rafap\Desktop\Programming\source\repos\Auto_XL\Auto_XL\XL_Auto_UI\obj\Debug\XL_Auto_UI.csproj.GenerateResource.cache
+C:\Users\rafap\Desktop\Programming\source\repos\Auto_XL\Auto_XL\XL_Auto_UI\obj\Debug\XL_Auto_UI.exe
+C:\Users\rafap\Desktop\Programming\source\repos\Auto_XL\Auto_XL\XL_Auto_UI\obj\Debug\XL_Auto_UI.pdb
